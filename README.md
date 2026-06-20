@@ -21,4 +21,4 @@ Kubernetes/Linux. Je recherche un **CDI** en DevOps/Cloud ou IoT à partir de se
 
 ## 📫 Me contacter
 
-[LinkedIn](www.linkedin.com/in/uriel-louis-0994b7312) · uriellouis1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/uriel-louis-0994b7312) · uriellouis1@gmail.com
