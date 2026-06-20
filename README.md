@@ -3,7 +3,7 @@
 Ingénieur DevOps & Cloud | IoT — Master à l'Université Paris-Saclay (2026)
 
 Actuellement en alternance chez **Airbus Defence & Space** sur des infrastructures 
-Kubernetes/Linux. Je recherche un **CDI** en DevOps/Cloud ou IoT à partir de septembre 2026.
+Kubernetes/Linux. Je recherche un **CDI** en DevOps/Cloud ou IoT à partir d'Octobre 2026.
 
 ## 🔧 Stack technique
 
